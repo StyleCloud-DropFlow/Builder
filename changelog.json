@@ -1,0 +1,23 @@
+{
+  "name": "DropFlow",
+  "slug": "drop-flow",
+  "author": "<a href='https://nichita.dev'>Nichita Sinitin</a>",
+  "author_profile": "https://nichita.dev",
+  "version": "1.0.4",
+  "download_url": "https://github.com/StyleCloud-DropFlow/Builder/releases/download/v1.0.4/drop-flow.zip",
+  "requires": "6.0",
+  "tested": "6.1",
+  "requires_php": "5.6",
+  "added": "2020-09-10 02:10:00",
+  "last_updated": "2024-08-23 18:46:00",
+  "homepage": "https://nichita.dev",
+  "sections": {
+    "description": "Efficiently run many WordPress sites from a single WordPress installation.",
+    "installation": "Click the activate button and that's it.",
+    "changelog": "<h4>v1.0.4 released on August 23, 2024</h4><ul><li>Feature: Text Editor</li><li>Chore: Refactor toolbars</li></ul>"
+  },
+  "banners": {
+    "low": "https://wpfreighter.com/images/wp-freighter-banner-772x250.webp",
+    "high": "https://wpfreighter.com/images/wp-freighter-banner-1544x500.webp"
+  }
+}
