@@ -17,8 +17,8 @@
     "changelog": "<h4>v1.0.6 released on August 30, 2024</h4><ul>  <li>Feat: Canvas: allow arrows move for selected, but not edited element</li>  <li>Feat: Canvas: add snap to grid option</li>  <li>Feat: Canvas: allow contained layout</li>  <li>Feat: Shadow: improve controller</li>  <li>Feat: Overlay: improve controller</li>  <li>Feat: Shape El: Toolbar: add color option</li>  <li>Feat: Image El: add link option</li>  <li>Fix: Image El: prevent broken blocks in gutenberg when lightbox is enabled</li>  <li>Fix: Image El: preselect current image in wp media library</li>  <li>Fix: Opacity: proper opacity calculation</li>  <li>Chore: improve stylebase</li>  <li>Chore: improve edit sidebar</li></ul><h4>v1.0.5 released on August 26, 2024</h4><ul>  <li>Feat: Text El: add link picker option</li>  <li>Feat: Text El: add tag picker option</li>  <li>Feat: add rotation</li>  <li>Feat: improve layers order to be the same in front and back</li>  <li>Fix: fix history initial entry</li>  <li>Chore: refactor resize and dragable</li>  <li>Chore: Text El: change hover styles output</li>  <li>Chore: change updater</li></ul><h4>v1.0.4 released on August 23, 2024</h4><ul>  <li>Feat: Text Editor</li>  <li>Chore: Refactor toolbars</li></ul>"
   },
   "icons": {
-    "2x": "https://github.com/StyleCloud-DropFlow/Builder/blob/main/assets/icon-256x256.jpg?raw=true",
-    "1x": "https://github.com/StyleCloud-DropFlow/Builder/blob/main/assets/icon-128x128.jpg?raw=true"
+    "low": "https://github.com/StyleCloud-DropFlow/Builder/blob/main/assets/icon-128x128.jpg?raw=true",
+    "high": "https://github.com/StyleCloud-DropFlow/Builder/blob/main/assets/icon-256x256.jpg?raw=true"
   },
   "banners": {
     "low": "https://wpfreighter.com/images/wp-freighter-banner-772x250.webp",
