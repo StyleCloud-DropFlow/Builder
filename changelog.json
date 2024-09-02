@@ -18,7 +18,8 @@
   },
   "icons": {
     "low": "https://justrandomitguy.netlify.app/assets/icon-128x128.jpg?raw=true",
-    "high": "https://justrandomitguy.netlify.app/assets/icon-256x256.jpg?raw=true"
+    "high": "https://justrandomitguy.netlify.app/assets/icon-256x256.jpg?raw=true",
+    "svg": "https://justrandomitguy.netlify.app/assets/icon.svg?raw=true"
   },
   "banners": {
     "low": "https://wpfreighter.com/images/wp-freighter-banner-772x250.webp",
