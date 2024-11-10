@@ -3,18 +3,18 @@
   "slug": "drop-flow",
   "author": "<a href='https://nichita.dev'>Nichita Sinitin</a>",
   "author_profile": "https://nichita.dev",
-  "version": "1.0.6",
-  "download_url": "https://github.com/StyleCloud-DropFlow/Builder/releases/download/v1.0.6/drop-flow.zip",
-  "requires": "6.6.0",
+  "version": "1.0.7",
+  "download_url": "https://github.com/StyleCloud-DropFlow/Builder/releases/download/v1.0.7/drop-flow.zip",
+  "requires": "6.6.1",
   "tested": "6.6.1",
   "requires_php": "5.6",
   "added": "2020-09-10 02:10:00",
-  "last_updated": "2024-08-30",
+  "last_updated": "2024-11-10",
   "homepage": "https://nichita.dev",
   "sections": {
-    "description": "User-friendly WordPress plugin designed to empower users to create custom, dynamic layouts for their websites without needing to write any code. It offers a drag-and-drop interface, allowing users to easily arrange content blocks, widgets, and other elements. With responsive design capabilities, the builder ensures that layouts look great on all devices. It also supports a wide range of customization options, including typography, colors, and spacing, making it a versatile tool for both beginners and experienced developers aiming to build visually appealing and functional WordPress sites.",
-    "installation": "1. Upload the plugin files to the `/wp-content/plugins/drop-flow` directory, or install the plugin through the WordPress plugins screen directly. 2. Activate the plugin through the 'Plugins' screen in WordPress.",
-    "changelog": "<h4>v1.0.6 released on August 30, 2024</h4><ul>  <li>Feat: Canvas: allow arrows move for selected, but not edited element</li>  <li>Feat: Canvas: add snap to grid option</li>  <li>Feat: Canvas: allow contained layout</li>  <li>Feat: Shadow: improve controller</li>  <li>Feat: Overlay: improve controller</li>  <li>Feat: Shape El: Toolbar: add color option</li>  <li>Feat: Image El: add link option</li>  <li>Fix: Image El: prevent broken blocks in gutenberg when lightbox is enabled</li>  <li>Fix: Image El: preselect current image in wp media library</li>  <li>Fix: Opacity: proper opacity calculation</li>  <li>Chore: improve stylebase</li>  <li>Chore: improve edit sidebar</li></ul><h4>v1.0.5 released on August 26, 2024</h4><ul>  <li>Feat: Text El: add link picker option</li>  <li>Feat: Text El: add tag picker option</li>  <li>Feat: add rotation</li>  <li>Feat: improve layers order to be the same in front and back</li>  <li>Fix: fix history initial entry</li>  <li>Chore: refactor resize and dragable</li>  <li>Chore: Text El: change hover styles output</li>  <li>Chore: change updater</li></ul><h4>v1.0.4 released on August 23, 2024</h4><ul>  <li>Feat: Text Editor</li>  <li>Chore: Refactor toolbars</li></ul>"
+    "description": "Free Flow Builder for WordPress",
+    "installation": "Click the activate button and that's it.",
+    "changelog": "<h4>v1.0.7 released on August 30, 2024</h4><ul>  <li>Feat: refactor number inputs: allow ±10 when \"shift\" button pressed</li>  <li>Feat: Render: optimize CSS output</li>  <li>Feat: Render: use mobile first principles</li>  <li>Feat: Canvas: introduce localStorage settings</li>  <li>Feat: Canvas: add Exit confirmation dialog</li>  <li>Feat: Canvas: add sides resizer</li>  <li>Feat: Canvas: resize is over any layer</li>  <li>Fix: Grid: fix cell render on Resize</li>  <li>Fix: Canvas: better contained calculations</li>  <li>Chore: improve edit sidebar</li></ul><h4>v1.0.6 released on August 30, 2024</h4><ul>  <li>Feat: Canvas: allow arrows move for selected, but not edited element</li>  <li>Feat: Canvas: add snap to grid option</li>  <li>Feat: Canvas: allow contained layout</li>  <li>Feat: Shadow: improve controller</li>  <li>Feat: Overlay: improve controller</li>  <li>Feat: Shape El: Toolbar: add color option</li>  <li>Feat: Image El: add link option</li>  <li>Fix: Image El: prevent broken blocks in gutenberg when lightbox is enabled</li>  <li>Fix: Image El: preselect current image in wp media library</li>  <li>Fix: Opacity: proper opacity calculation</li>  <li>Chore: improve stylebase</li>  <li>Chore: improve edit sidebar</li></ul><h4>v1.0.5 released on August 26, 2024</h4><ul>  <li>Feat: Text El: add link picker option</li>  <li>Feat: Text El: add tag picker option</li>  <li>Feat: add rotation</li>  <li>Feat: improve layers order to be the same in front and back</li>  <li>Fix: fix history initial entry</li>  <li>Chore: refactor resize and dragable</li>  <li>Chore: Text El: change hover styles output</li>  <li>Chore: change updater</li></ul><h4>v1.0.4 released on August 23, 2024</h4><ul>  <li>Feat: Text Editor</li>  <li>Chore: Refactor toolbars</li></ul>"
   },
   "icons": {
     "low": "https://justrandomitguy.netlify.app/assets/icon-128x128.jpg?raw=true",
